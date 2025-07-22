@@ -30,5 +30,5 @@ Note: There is currently no automated process.
 This font is licensed under the [Open Font License (OFL)](./OFL.txt).  
   
 ## 🙏 Acknowledgment
-- GNU Unifont Project [Paul Hardy](https://unifoundry.com/unifont/)
+- [GNU Unifont Project](https://unifoundry.com/unifont/)
 - FontCreator (High-Logic)
