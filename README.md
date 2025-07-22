@@ -19,13 +19,16 @@ Light:
 ![Light Style](./preview-light.png) 
 
 ## 🚧Current Status: Alpha v0.001 
-✅ Automated Generation of Basic Styles 
+✅ Automated Generation of Basic Styles  
 ⚠️ Not Font Optimized (May Have Jaggies/Spacing Issues) 
 
 ## ❓ Feedback and Contributions
-Please submit any issues or suggestions to the Issues page. 
+Please submit any issues or suggestions to the Issues page.  
 Note: There is currently no automated process. 
- 
+
+## 📜 License
+This font is licensed under the [Open Font License (OFL)](./OFL.txt).  
+  
 ## 🙏 Acknowledgment
 - GNU Unifont Project [Paul Hardy](https://unifoundry.com/unifont/)
 - FontCreator (High-Logic)
