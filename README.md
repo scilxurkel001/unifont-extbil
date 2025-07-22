@@ -27,5 +27,5 @@ Please submit any issues or suggestions to the Issues page.
 Note: There is currently no automated process. 
  
 ## 🙏 Acknowledgment
-- GNU Unifont Project ![Paul Hardy](https://unifoundry.com/unifont/)
+- GNU Unifont Project [Paul Hardy](https://unifoundry.com/unifont/)
 - FontCreator (High-Logic)
